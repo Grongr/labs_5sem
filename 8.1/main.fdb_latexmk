@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1666176049 "main.tex" "main.pdf" "main" 1666176049
+["pdflatex"] 1666176562 "main.tex" "main.pdf" "main" 1666176562
   "/etc/texmf/web2c/texmf.cnf" 1631022526 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/grongr/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1631022857 3304 6a543c07045572737981351171e0505e ""
   "/home/grongr/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm" 1632504330 3316 0992aa03d0c75498a0b6fb905d9eaab6 ""
@@ -195,9 +195,9 @@
   "fakt_logo.png" 1603994216 22189 e71152492794dd03676a3592f0c2a09f ""
   "fig1.PNG" 1651049152 91602 43909b5b1891808efabb2b08b2446d87 ""
   "fig2.PNG" 1651049152 34854 313e9266f23aa006789c2dda235bc660 ""
-  "main.aux" 1666176031 1595 50e0161368a18d5a9189e867d50c52fa "pdflatex"
-  "main.tex" 1666176048 8596 55f6bfa4d2a408373bd2c92f3e72ed66 ""
+  "main.aux" 1666176540 1595 7829c80be48c8336e0d2b9a9eab66afb "pdflatex"
+  "main.tex" 1666176561 8596 2cda6a200784e7b681783aaa64ac94d2 ""
   (generated)
-  "main.log"
-  "main.pdf"
   "main.aux"
+  "main.pdf"
+  "main.log"
